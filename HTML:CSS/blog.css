@@ -1,0 +1,42 @@
+#navbar{
+    font-family: 'Satisfy', cursive;
+    color: #5E6472;
+}
+
+.carouselForCute{
+    width: 60%;
+    height: 30%;
+}
+
+
+#img {
+    position: relative;
+    float: center;
+    width:  400px;
+    height: 300px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+.jumbotron{
+    align-self: auto;
+    text-align: center;
+    color: #9F9FED;
+    font-family: 'Charmonman', cursive;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+.display-4{
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+.btn-success{
+    font-family: 'VT323', monospace;
+}
+#carousel-item {
+    width: 75%;
+    height: 75%;
+}
